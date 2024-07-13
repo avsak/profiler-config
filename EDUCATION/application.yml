@@ -1,1 +1,2 @@
-root.property: 123
+root:
+  property: 123
